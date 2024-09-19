@@ -3,6 +3,7 @@ public class User {
 
         System.out.println("versiyon 3");
         System.out.println("versiyon 4");
+        //remoteda değişiklik 2
 
 
 
