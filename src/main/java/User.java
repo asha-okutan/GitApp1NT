@@ -6,6 +6,12 @@ public class User {
         //remoteda değişiklik 2
         //diğer arkadaşımız değişiklik
 
+        System.out.println("User da tekrar devamı");
+        System.out.println("User da tekrar devamı 2");
+        System.out.println("tekrar ws den direkt committeyiz");
+        System.out.println("versiyon 5");
+
+
 
 
 
