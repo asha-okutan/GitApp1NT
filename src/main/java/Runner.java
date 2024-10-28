@@ -13,6 +13,7 @@ public class Runner {
         System.out.println("  ws den direkt commit -> git commit -am''direktcommit''  ");
         System.out.println("tekrar ws den direkt committeyiz");
         System.out.println("versiyon 5");
+        //remoteda değişiklik
 
 
 
